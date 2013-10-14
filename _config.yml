@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
+name: "Bartek Kruszczyński | Developer, Car Nut, dnb lover"
 markdown: redcarpet
 pygments: true
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
