@@ -8,60 +8,18 @@
 	"buffers":
 	[
 		{
+			"file": "_assets/stylesheets/style.css.scss",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 327,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 1092,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assets/javascripts/application.js",
-			"settings":
-			{
-				"buffer_size": 51,
-				"line_ending": "Unix",
-				"name": "//= require vendor/jquery"
-			}
-		},
-		{
-			"file": "_assets/javascripts/custom/card.js.coffee",
-			"settings":
-			{
-				"buffer_size": 13,
-				"line_ending": "Unix",
-				"name": "alert(\"jacek\")"
-			}
-		},
-		{
-			"file": "_assets/javascripts/vendor/jquery.js",
-			"settings":
-			{
-				"buffer_size": 273198,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_plugins/ext.rb",
-			"settings":
-			{
-				"buffer_size": 23,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 263,
+				"buffer_size": 152,
 				"line_ending": "Unix"
 			}
 		}
@@ -90,6 +48,14 @@
 	},
 	"file_history":
 	[
+		"/var/www/kruszczynski/index.html",
+		"/var/www/kruszczynski/_assets/javascripts/vendor/jquery.js",
+		"/var/www/kruszczynski/_config.yml",
+		"/var/www/kruszczynski/_assets/javascripts/application.js",
+		"/var/www/kruszczynski/_assets/javascripts/custom/card.js.coffee",
+		"/var/www/kruszczynski/_layouts/default.html",
+		"/var/www/kruszczynski/_assets/stylesheets/style.css.scss",
+		"/var/www/kruszczynski/_plugins/ext.rb",
 		"/var/www/kruszczynski/_plugins/jekyll_asset_pipeline.rb",
 		"/usr/share/applications/sublime.desktop"
 	],
@@ -126,28 +92,28 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_config.yml",
+					"file": "_assets/stylesheets/style.css.scss",
 					"settings":
 					{
-						"buffer_size": 327,
+						"buffer_size": 43,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								327,
-								327
+								25,
+								25
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -157,159 +123,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_layouts/default.html",
+					"file": "_config.yml",
 					"settings":
 					{
-						"buffer_size": 1092,
+						"buffer_size": 152,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								269,
-								269
+								152,
+								152
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_assets/javascripts/application.js",
-					"settings":
-					{
-						"buffer_size": 51,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								51,
-								51
-							]
-						],
-						"settings":
-						{
-							"auto_name": "//= require vendor/jquery",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_assets/javascripts/custom/card.js.coffee",
-					"settings":
-					{
-						"buffer_size": 13,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6,
-								6
-							]
-						],
-						"settings":
-						{
-							"auto_name": "alert(\"jacek\")",
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_assets/javascripts/vendor/jquery.js",
-					"settings":
-					{
-						"buffer_size": 273198,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								273198,
-								273198
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 165413.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_plugins/ext.rb",
-					"settings":
-					{
-						"buffer_size": 23,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								23,
-								23
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 263,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20,
-								20
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
