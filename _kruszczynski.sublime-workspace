@@ -3,23 +3,51 @@
 	{
 		"selected_items":
 		[
+			[
+				"se",
+				"section	Tag"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "_assets/stylesheets/style.css.scss",
+			"file": "_assets/stylesheets/_header.scss",
 			"settings":
 			{
-				"buffer_size": 43,
+				"buffer_size": 106,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_config.yml",
+			"file": "_assets/stylesheets/_base.scss",
 			"settings":
 			{
-				"buffer_size": 152,
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_assets/stylesheets/style.css.scss",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 23,
 				"line_ending": "Unix"
 			}
 		}
@@ -35,7 +63,11 @@
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
 	},
 	"distraction_free":
 	{
@@ -48,13 +80,24 @@
 	},
 	"file_history":
 	[
+		"/var/www/kruszczynski/_config.yml",
+		"/var/www/kruszczynski/_includes/header.html",
+		"/var/www/kruszczynski/_includes/footer.html",
+		"/var/www/kruszczynski/_assets/javascripts/custom/main.js.coffee",
+		"/var/www/kruszczynski/_includes/description.html",
+		"/var/www/kruszczynski/_layouts/default.html",
+		"/var/www/kruszczynski/_includes/social.html",
+		"/var/www/kruszczynski/_assets/stylesheets/_variables.scss",
+		"/var/www/kruszczynski/_assets/stylesheets/_base.scss",
+		"/var/www/kruszczynski/_assets/stylesheets/style.css.scss",
+		"/var/www/kruszczynski/_assets/stylesheets/_social.scss",
+		"/var/www/kruszczynski/_assets/stylesheets/_footer.scss",
+		"/var/www/kruszczynski/_assets/stylesheets/_header.scss",
+		"/var/www/kruszczynski/_assets/javascripts/application.js",
+		"/var/www/kruszczynski/_assets/javascripts/vendor/modernizr.js",
 		"/var/www/kruszczynski/index.html",
 		"/var/www/kruszczynski/_assets/javascripts/vendor/jquery.js",
-		"/var/www/kruszczynski/_config.yml",
-		"/var/www/kruszczynski/_assets/javascripts/application.js",
 		"/var/www/kruszczynski/_assets/javascripts/custom/card.js.coffee",
-		"/var/www/kruszczynski/_layouts/default.html",
-		"/var/www/kruszczynski/_assets/stylesheets/style.css.scss",
 		"/var/www/kruszczynski/_plugins/ext.rb",
 		"/var/www/kruszczynski/_plugins/jekyll_asset_pipeline.rb",
 		"/usr/share/applications/sublime.desktop"
@@ -92,23 +135,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_assets/stylesheets/style.css.scss",
+					"file": "_assets/stylesheets/_header.scss",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 43,
+						"buffer_size": 106,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								25,
-								25
+								74,
+								74
 							]
 						],
 						"settings":
@@ -123,23 +167,107 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_config.yml",
+					"file": "_assets/stylesheets/_base.scss",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 152,
+						"buffer_size": 102,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								152,
-								152
+								28,
+								28
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_assets/stylesheets/style.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -181,6 +309,7 @@
 		]
 	},
 	"menu_visible": true,
+	"project": "_kruszczynski.sublime-project",
 	"replace":
 	{
 		"height": 0.0
@@ -202,10 +331,24 @@
 		],
 		"width": 0.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 352.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
