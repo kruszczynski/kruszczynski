@@ -11,54 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_assets/stylesheets/_header.scss",
-			"settings":
-			{
-				"buffer_size": 106,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assets/stylesheets/_base.scss",
-			"settings":
-			{
-				"buffer_size": 124,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assets/stylesheets/style.css.scss",
-			"settings":
-			{
-				"buffer_size": 267,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assets/stylesheets/_variables.scss",
-			"settings":
-			{
-				"buffer_size": 100,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 448,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 23,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -88,6 +40,12 @@
 	},
 	"file_history":
 	[
+		"/home/bartek/kruszczynski/index.html",
+		"/home/bartek/kruszczynski/_layouts/default.html",
+		"/home/bartek/kruszczynski/_assets/stylesheets/_variables.scss",
+		"/home/bartek/kruszczynski/_assets/stylesheets/style.css.scss",
+		"/home/bartek/kruszczynski/_assets/stylesheets/_header.scss",
+		"/home/bartek/kruszczynski/_assets/stylesheets/_base.scss",
 		"/var/www/kruszczynski/_config.yml",
 		"/var/www/kruszczynski/_includes/header.html",
 		"/var/www/kruszczynski/_includes/footer.html",
@@ -143,173 +101,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_assets/stylesheets/_header.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 106,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74,
-								74
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_assets/stylesheets/_base.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 124,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								67
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_assets/stylesheets/style.css.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 267,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								108,
-								108
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_assets/stylesheets/_variables.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 100,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								100,
-								100
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_layouts/default.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 448,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								156,
-								156
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19,
-								19
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
