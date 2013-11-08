@@ -4,4 +4,3 @@ pygments: true
 assets:
   js_compressor:  uglifier
   css_compressor: sass
-exclude: ['vendor']

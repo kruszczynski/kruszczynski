@@ -1,1 +1,0 @@
-web: bundle exec thin start -p 80 -e $RACK_ENV
