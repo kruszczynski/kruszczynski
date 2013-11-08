@@ -4,7 +4,7 @@ ruby '1.9.3'
 
 gem "rake"                # actually not need for heroku but for the provided Rakefile
 gem "RedCloth"            # if you want to use the Textile Markup Language
-gem "unicorn"
+gem "sinatra"
 gem "sass"
 gem "compass"
 gem "coffee-script"
