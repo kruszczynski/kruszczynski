@@ -1,19 +1,20 @@
-# @Kru = do (Backbone, Marionette) ->
+@Kru = do (Backbone, Marionette) ->
 
-#   App = new Marionette.Application
+  App = new Marionette.Application
 
-#   App.addRegions
-#     headerRegion: "#header"
-#     contentRegion: "#content"
-#     footerRegion: "#footer"
+  App.addRegions
+    headerRegion: "#header"
+    contentRegion: "#content"
+    footerRegion: "#footer"
 
-#   App.on 'initialize:after', ->
-#     if Backbone.history
-#       Backbone.history.start
-#         pushState: Modernizr.history
-#         silent: true
+  App.on 'initialize:after', ->
+    if Backbone.history
+      Backbone.history.start
+        pushState: Modernizr.history
+        silent: true
+    console.log "app initialized"
 
-#   App
+  App
 
-# $(document).ready ->
-#   Kru.start()
+$(document).ready ->
+  Kru.start()
