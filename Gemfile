@@ -8,4 +8,5 @@ gem "compass"
 gem "coffee-script"
 gem "jekyll" # we need at least this version so jekyll will use Ruby 1.9.2
 gem "jekyll-assets"
+gem "rack-jekyll"
 gem "foreman"             # this is a tool to test and use the Procfile locally
