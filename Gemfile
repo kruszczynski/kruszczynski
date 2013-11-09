@@ -6,6 +6,7 @@ ruby '1.9.3'
 gem "sass"
 gem "compass"
 gem "coffee-script"
+gem "yui-compressor"
 gem "jekyll" # we need at least this version so jekyll will use Ruby 1.9.2
 gem "jekyll-assets"
 gem "rake"                # actually not need for heroku but for the provided Rakefile
