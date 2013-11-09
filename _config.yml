@@ -3,6 +3,6 @@ markdown: redcarpet
 pygments: true
 assets:
   js_compressor:  uglifier
-  css_compressor: yui-compressor
+  css_compressor: yui
 exclude: vendor Gemfile Gemfile.lock Procfile config.ru
 
