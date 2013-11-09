@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '1.9.3'
 
-
+gem "uglifier"
 gem "sass"
 gem "compass"
 gem "coffee-script"
