@@ -1,5 +1,6 @@
 name: "Bartek Kruszczyński | Developer, Car Nut, dnb lover"
 markdown: redcarpet
+safe: false
 pygments: true
 gems: [jekyll-assets]
 assets:
