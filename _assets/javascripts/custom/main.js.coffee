@@ -13,6 +13,7 @@
         pushState: Modernizr.history
         silent: true
     console.log "app initialized"
+    console.log "even more"
 
   App
 
