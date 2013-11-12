@@ -12,8 +12,7 @@
       Backbone.history.start
         pushState: Modernizr.history
         silent: true
-    console.log "app initialized"
-    console.log "even more"
+    console.log "dupa"
 
   App
 
