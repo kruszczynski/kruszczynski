@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 ruby '1.9.3'
 
+gem "uglifier"
 gem "compass"
 gem "coffee-script"
 gem "jekyll-assets"
