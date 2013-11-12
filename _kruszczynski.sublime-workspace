@@ -12,43 +12,59 @@
 	"buffers":
 	[
 		{
-			"file": "Gemfile",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 101,
+				"buffer_size": 210,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Procfile",
+			"file": "_assets/stylesheets/application.css",
 			"settings":
 			{
-				"buffer_size": 46,
+				"buffer_size": 17,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_plugins/ext.rb",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 488,
 				"line_ending": "Unix",
-				"name": "web: bundle exec thin start -p $PORT -e $RACK_ENV"
+				"name": "source :rubygems"
+			}
+		},
+		{
+			"file": "_assets/javascripts/custom/main.js.coffee",
+			"settings":
+			{
+				"buffer_size": 396,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "config.ru",
 			"settings":
 			{
-				"buffer_size": 43,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 23,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 172,
+				"buffer_size": 170,
 				"line_ending": "Unix"
 			}
 		}
@@ -81,6 +97,12 @@
 	},
 	"file_history":
 	[
+		"/home/bartek/kruszczynski/_assets/stylesheets/application.css",
+		"/home/bartek/kruszczynski/unicorn.rb",
+		"/home/bartek/kruszczynski/config.ru",
+		"/home/bartek/kruszczynski/Procfile",
+		"/home/bartek/kruszczynski/Gemfile",
+		"/home/bartek/kruszczynski/Rakefile",
 		"/home/bartek/kruszczynski/_config.yml",
 		"/home/bartek/kruszczynski/index.html",
 		"/home/bartek/kruszczynski/_layouts/default.html",
@@ -148,25 +170,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Gemfile",
+					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 101,
+						"buffer_size": 210,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44,
-								44
+								152,
+								152
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -176,25 +197,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "Procfile",
-					"semi_transient": false,
+					"file": "_assets/stylesheets/application.css",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 46,
+						"buffer_size": 17,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								35,
-								35
+								17,
+								17
 							]
 						],
 						"settings":
 						{
-							"auto_name": "web: bundle exec thin start -p $PORT -e $RACK_ENV",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -204,24 +224,26 @@
 				},
 				{
 					"buffer": 2,
-					"file": "config.ru",
+					"file": "_layouts/default.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 43,
+						"buffer_size": 454,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								43,
-								43
+								283,
+								283
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -231,11 +253,11 @@
 				},
 				{
 					"buffer": 3,
-					"file": "index.html",
-					"semi_transient": true,
+					"file": "_plugins/ext.rb",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23,
+						"buffer_size": 56,
 						"regions":
 						{
 						},
@@ -248,7 +270,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -258,24 +280,81 @@
 				},
 				{
 					"buffer": 4,
-					"file": "_config.yml",
+					"file": "Gemfile",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 172,
+						"buffer_size": 488,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								170,
-								170
+								105,
+								105
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
+							"auto_name": "source :rubygems",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_assets/javascripts/custom/main.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config.ru",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -317,6 +396,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
 	"project": "_kruszczynski.sublime-project",
 	"replace":
 	{
