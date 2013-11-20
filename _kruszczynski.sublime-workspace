@@ -15,15 +15,7 @@
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 210,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assets/stylesheets/application.css",
-			"settings":
-			{
-				"buffer_size": 17,
+				"buffer_size": 259,
 				"line_ending": "Unix"
 			}
 		},
@@ -31,7 +23,7 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 454,
+				"buffer_size": 448,
 				"line_ending": "Unix"
 			}
 		},
@@ -44,19 +36,34 @@
 			}
 		},
 		{
-			"file": "Gemfile",
-			"settings":
-			{
-				"buffer_size": 488,
-				"line_ending": "Unix",
-				"name": "source :rubygems"
-			}
-		},
-		{
 			"file": "_assets/javascripts/custom/main.js.coffee",
 			"settings":
 			{
-				"buffer_size": 396,
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile.lock",
+			"settings":
+			{
+				"buffer_size": 1731,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_assets/stylesheets/style.css.scss",
+			"settings":
+			{
+				"buffer_size": 297,
 				"line_ending": "Unix"
 			}
 		},
@@ -97,18 +104,18 @@
 	},
 	"file_history":
 	[
+		"/home/bartek/kruszczynski/Procfile",
+		"/home/bartek/kruszczynski/_assets/stylesheets/_header.scss",
+		"/home/bartek/kruszczynski/Gemfile",
+		"/home/bartek/kruszczynski/_assets/stylesheets/style.css.scss",
 		"/home/bartek/kruszczynski/_assets/stylesheets/application.css",
 		"/home/bartek/kruszczynski/unicorn.rb",
 		"/home/bartek/kruszczynski/config.ru",
-		"/home/bartek/kruszczynski/Procfile",
-		"/home/bartek/kruszczynski/Gemfile",
 		"/home/bartek/kruszczynski/Rakefile",
 		"/home/bartek/kruszczynski/_config.yml",
 		"/home/bartek/kruszczynski/index.html",
 		"/home/bartek/kruszczynski/_layouts/default.html",
 		"/home/bartek/kruszczynski/_assets/stylesheets/_variables.scss",
-		"/home/bartek/kruszczynski/_assets/stylesheets/style.css.scss",
-		"/home/bartek/kruszczynski/_assets/stylesheets/_header.scss",
 		"/home/bartek/kruszczynski/_assets/stylesheets/_base.scss",
 		"/var/www/kruszczynski/_config.yml",
 		"/var/www/kruszczynski/_includes/header.html",
@@ -134,7 +141,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -165,7 +172,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -174,15 +181,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 210,
+						"buffer_size": 259,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								152,
-								152
+								182,
+								182
 							]
 						],
 						"settings":
@@ -197,46 +204,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_assets/stylesheets/application.css",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 17,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								17,
-								17
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "_layouts/default.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 454,
+						"buffer_size": 448,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								283,
-								283
+								137,
+								137
 							]
 						],
 						"settings":
@@ -252,7 +232,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "_plugins/ext.rb",
 					"semi_transient": false,
 					"settings":
@@ -279,48 +259,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "Gemfile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 488,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								105,
-								105
-							]
-						],
-						"settings":
-						{
-							"auto_name": "source :rubygems",
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
+					"buffer": 3,
 					"file": "_assets/javascripts/custom/main.js.coffee",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 396,
+						"buffer_size": 385,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								352,
-								352
+								342,
+								342
 							]
 						],
 						"settings":
@@ -336,7 +288,90 @@
 					"type": "text"
 				},
 				{
+					"buffer": 4,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Gemfile.lock",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
 					"buffer": 6,
+					"file": "_assets/stylesheets/style.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "config.ru",
 					"semi_transient": false,
 					"settings":
@@ -357,7 +392,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 170.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -367,7 +402,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -403,7 +438,7 @@
 	"project": "_kruszczynski.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
