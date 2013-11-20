@@ -17,7 +17,6 @@ GEM
       fssm (>= 0.2.7)
       sass (~> 3.1)
     directory_watcher (1.5.1)
-    dynopoker (1.1.2)
     excon (0.25.3)
     execjs (2.0.2)
     fast-stemmer (1.0.2)
@@ -46,7 +45,6 @@ GEM
     launchy (2.3.0)
       addressable (~> 2.3)
     liquid (2.5.3)
-    logger (1.2.8)
     maruku (0.7.0)
     mime-types (2.0)
     multi_json (1.8.2)
@@ -75,10 +73,8 @@ DEPENDENCIES
   RedCloth
   coffee-script
   compass
-  dynopoker
   heroku
   jekyll
   jekyll-assets
-  logger
   rake
   uglifier
