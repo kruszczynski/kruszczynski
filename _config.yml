@@ -7,4 +7,4 @@ assets:
   compress:
     css:  sass
     js:   uglifier
-exclude: [vendor, Gemfile, Gemfile.lock, Procfile, config.ru, newrelic.yml]
+exclude: [vendor, Gemfile, Gemfile.lock, Procfile]

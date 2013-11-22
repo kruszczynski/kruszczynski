@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 ruby "1.9.3"
 
+gem 'newrelic_rpm'
 gem "uglifier"
 gem "compass"
 gem "coffee-script"
