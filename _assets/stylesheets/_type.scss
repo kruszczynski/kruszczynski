@@ -1,0 +1,11 @@
+body {
+  @extend .light;
+}
+
+.light {
+  font-weight: 300;
+}
+
+.bold, strong {
+  font-weight: 700;
+}
