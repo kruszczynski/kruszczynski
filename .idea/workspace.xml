@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25342439-d396-4924-98a4-2dabbbec0ed5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_plugins/dynopoker_config.rb" afterPath="$PROJECT_DIR$/_plugins/dynopoker_config.rb" />
     </list>
     <ignored path="kruszczynski.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,7 +16,8 @@
     <file path="/_type.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081024504" ignored="false" />
     <file path="/header.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081117251" ignored="false" />
     <file path="/_variables.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081061712" ignored="false" />
-    <file path="/dynopoker_config.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385242026006" ignored="false" />
+    <file path="/dynopoker_config.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385242763727" ignored="false" />
+    <file path="/Procfile" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385242772046" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,7 @@
       <file leaf-file-name="dynopoker_config.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_plugins/dynopoker_config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="20" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+            <state line="3" column="27" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,7 +103,7 @@
       <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+            <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -588,13 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_plugins/dynopoker_config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="20" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -609,9 +604,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/dynopoker_config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="27" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

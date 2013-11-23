@@ -1,5 +1,5 @@
 require('dynopoker')
 
 Dynopoker.configure do |config|
-  config.address = 'localhost:4000'
+  config.address = 'http://kruszczynski.herokuapp.com'
 end
