@@ -2,20 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25342439-d396-4924-98a4-2dabbbec0ed5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/stylesheets/_type.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-9bce40aea6a2e3e7f04a2c3a0b8d0ebe.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-9bce40aea6a2e3e7f04a2c3a0b8d0ebe.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/newrelic.yml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_plugins/dynopoker_config.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-487b1f854feed277eebda3e1655e1fd0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-487b1f854feed277eebda3e1655e1fd0.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-4e7f1774832e7fc7b5bc82359ddd10c3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-4e7f1774832e7fc7b5bc82359ddd10c3.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-553a23e15abc5ce137f288bab377d585.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-553a23e15abc5ce137f288bab377d585.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-56a1f9dca1c7d9c68b281fa2850e65be.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-56a1f9dca1c7d9c68b281fa2850e65be.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-5a3706d5ef3cb8e0478b810fe8bbbefc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-5a3706d5ef3cb8e0478b810fe8bbbefc.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-fc5106eedd48ed0e3cc8fe5c35bc3f5b.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-fc5106eedd48ed0e3cc8fe5c35bc3f5b.css.gz" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_site/assets/style-fa0081354b5fe4913b2cf2644009f58d.css" afterPath="$PROJECT_DIR$/_site/assets/style-021d2dc7fe3600a67215450094ef99ac.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_site/assets/style-fa0081354b5fe4913b2cf2644009f58d.css.gz" afterPath="$PROJECT_DIR$/_site/assets/style-021d2dc7fe3600a67215450094ef99ac.css.gz" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wakemydyno.txt" afterPath="$PROJECT_DIR$/_wakemydyno.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kruszczynski.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385067510337" ignored="false" />
-    <file path="/Gemfile" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384990483398" ignored="false" />
+    <file path="/Dummy.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385241459478" ignored="false" />
+    <file path="/Gemfile" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385241474780" ignored="false" />
     <file path="/ext.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384989868395" ignored="false" />
     <file path="/.gitignore" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384990274019" ignored="false" />
     <file path="/wakemydyno.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384991191692" ignored="false" />
@@ -23,6 +34,7 @@
     <file path="/_type.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081024504" ignored="false" />
     <file path="/header.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081117251" ignored="false" />
     <file path="/_variables.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081061712" ignored="false" />
+    <file path="/dynopoker_config.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385242026006" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +57,16 @@
       <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="-4.375">
+            <state line="7" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="69" selection-start="151" selection-end="151" vertical-scroll-proportion="0.05199307">
+            <state line="3" column="9" selection-start="197" selection-end="197" vertical-scroll-proportion="-1.875">
               <folding />
             </state>
           </provider>
@@ -87,28 +99,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ext.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_plugins/ext.rb">
+      <file leaf-file-name="dynopoker_config.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_plugins/dynopoker_config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+            <state line="3" column="20" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.29950082">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
+            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,17 +159,18 @@
         <option value="$PROJECT_DIR$/wakemydyno.txt" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/_type.scss" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/_plugins/dynopoker_config.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="48" />
-    <option name="y" value="-4" />
+    <option name="y" value="294" />
     <option name="width" value="1319" />
     <option name="height" value="773" />
   </component>
@@ -218,6 +231,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -298,15 +312,14 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="editor" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -428,15 +441,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-4" width="1319" height="773" extended-state="6" />
+    <frame x="48" y="294" width="1319" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2541306" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2580645" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -445,6 +457,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -513,20 +526,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wakemydyno.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_plugins/ext.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="11" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
@@ -534,7 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wakemydyno.txt">
+    <entry file="file://$PROJECT_DIR$/_wakemydyno.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
           <folding />
@@ -550,28 +549,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_plugins/ext.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="-4.375">
+        <state line="7" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
@@ -585,9 +568,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_syntax.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_type.scss">
@@ -613,7 +594,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="69" selection-start="151" selection-end="151" vertical-scroll-proportion="0.05199307">
+        <state line="3" column="9" selection-start="197" selection-end="197" vertical-scroll-proportion="-1.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/ext.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/dynopoker_config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="20" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.29950082">
           <folding />
         </state>
       </provider>
