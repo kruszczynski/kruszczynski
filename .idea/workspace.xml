@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25342439-d396-4924-98a4-2dabbbec0ed5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_plugins/dynopoker_config.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-487b1f854feed277eebda3e1655e1fd0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-487b1f854feed277eebda3e1655e1fd0.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-4e7f1774832e7fc7b5bc82359ddd10c3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-4e7f1774832e7fc7b5bc82359ddd10c3.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-553a23e15abc5ce137f288bab377d585.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-553a23e15abc5ce137f288bab377d585.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-56a1f9dca1c7d9c68b281fa2850e65be.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-56a1f9dca1c7d9c68b281fa2850e65be.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-5a3706d5ef3cb8e0478b810fe8bbbefc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-5a3706d5ef3cb8e0478b810fe8bbbefc.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-fc5106eedd48ed0e3cc8fe5c35bc3f5b.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-fc5106eedd48ed0e3cc8fe5c35bc3f5b.css.gz" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_site/assets/style-fa0081354b5fe4913b2cf2644009f58d.css" afterPath="$PROJECT_DIR$/_site/assets/style-021d2dc7fe3600a67215450094ef99ac.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_site/assets/style-fa0081354b5fe4913b2cf2644009f58d.css.gz" afterPath="$PROJECT_DIR$/_site/assets/style-021d2dc7fe3600a67215450094ef99ac.css.gz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wakemydyno.txt" afterPath="$PROJECT_DIR$/_wakemydyno.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
     </list>
     <ignored path="kruszczynski.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -108,19 +89,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.29950082">
+            <state line="12" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+            <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -165,6 +146,7 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_plugins/dynopoker_config.rb" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -606,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/dynopoker_config.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="20" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
@@ -629,7 +604,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.29950082">
+        <state line="12" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
