@@ -1,4 +1,9 @@
-$font-size: 16px; 
+$font-size: 16px;
+$font-size-medium: 14px;
+$font-size-small: 12px;
+
+$break-small: 480px;
+$break-large: 800px;
 
 $sans: "Open Sans", helvetica, arial, sans-serif;
 
@@ -9,3 +14,4 @@ $sign-blue-light: #0075FB;
 $base-font-color: $light-black;
 $social-base-color: $sign-blue-light;
 $social-hover: $sign-blue;
+$description-link-hover: $sign-blue;

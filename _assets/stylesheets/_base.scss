@@ -1,7 +1,17 @@
 .site {
-  max-width: 1024px;
+  max-width: $break-large;
   margin: 0 auto;
   font-family: $sans;
+  font-size: $font-size;
+  @media screen and (max-width: $break-large) and (min-width: $break-small) {
+    font-size: $font-size-medium;
+  }
+  @media screen and (max-width: $break-small) {
+    font-size: $font-size-small;
+  }
+  @media screen and (max-width: $break-large) {
+    margin: 0 0 0 1em;
+  }
 }
 
 #header, #footer, .section {
@@ -10,4 +20,16 @@
 
 a:visited, a:hover {
   color: inherit;
+}
+
+.pull-right {
+  float: right;
+}
+
+.pull-left {
+  float: left;
+}
+
+%clearfix {
+  @include clearfix;
 }

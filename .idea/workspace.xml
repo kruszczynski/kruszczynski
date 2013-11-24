@@ -2,40 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25342439-d396-4924-98a4-2dabbbec0ed5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/links.yml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-021d2dc7fe3600a67215450094ef99ac.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-021d2dc7fe3600a67215450094ef99ac.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-2a9163a7bd8bb4611101c7111387639f.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-2a9163a7bd8bb4611101c7111387639f.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-3c68240bab26d800768dda9940d9e72c.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-3c68240bab26d800768dda9940d9e72c.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-433b60a4e2b7b99532a04aa9c4bfef48.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-433b60a4e2b7b99532a04aa9c4bfef48.css.gz" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/stylesheets/_description.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-052ebebe599497c385d525c619b49c55.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-052ebebe599497c385d525c619b49c55.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-0ef6b4a56fa0857f14d977daa83c53d0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-0ef6b4a56fa0857f14d977daa83c53d0.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-85780be1e46439466e0b7be74ce1f015.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-85780be1e46439466e0b7be74ce1f015.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-86cc65bf19ac7204d5b585fa93cfc0e8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-86cc65bf19ac7204d5b585fa93cfc0e8.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-b735baa606e0406d3921500e1aad4a6f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-b735baa606e0406d3921500e1aad4a6f.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-c4870b028caf9c4571ac5e5c86cec382.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-c4870b028caf9c4571ac5e5c86cec382.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-d8c79d2382793f0d582f8dddd36b0142.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-d8c79d2382793f0d582f8dddd36b0142.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-e8dfa1798e8d054d6b3cc71464360700.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-e8dfa1798e8d054d6b3cc71464360700.css.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_base.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_footer.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_header.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_header.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_social.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_social.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/description.html" afterPath="$PROJECT_DIR$/_includes/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/social.html" afterPath="$PROJECT_DIR$/_includes/social.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/links.yml" afterPath="$PROJECT_DIR$/_data/links.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kruszczynski.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385249689130" ignored="false" />
+    <file path="/Dummy.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385300553836" ignored="false" />
     <file path="/Gemfile" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385241474780" ignored="false" />
     <file path="/ext.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384989868395" ignored="false" />
     <file path="/.gitignore" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384990274019" ignored="false" />
     <file path="/wakemydyno.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384991191692" ignored="false" />
-    <file path="/style.css.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385253751251" ignored="false" />
+    <file path="/style.css.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385303843452" ignored="false" />
     <file path="/_type.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081024504" ignored="false" />
     <file path="/header.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081117251" ignored="false" />
-    <file path="/_variables.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385253582285" ignored="false" />
+    <file path="/_variables.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306429792" ignored="false" />
     <file path="/dynopoker_config.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385242763727" ignored="false" />
     <file path="/Procfile" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385243005639" ignored="false" />
     <file path="/social.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385253159543" ignored="false" />
-    <file path="/links.yml" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385253067856" ignored="false" />
-    <file path="/_social.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385253674943" ignored="false" />
-    <file path="/_base.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385253324358" ignored="false" />
+    <file path="/links.yml" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385302526949" ignored="false" />
+    <file path="/_social.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385305650453" ignored="false" />
+    <file path="/_base.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306485839" ignored="false" />
+    <file path="/footer.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385303587545" ignored="false" />
+    <file path="/_footer.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385305858161" ignored="false" />
+    <file path="/default.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385303809123" ignored="false" />
+    <file path="/_description.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306338522" ignored="false" />
+    <file path="/description.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306548819" ignored="false" />
+    <file path="/_header.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306265377" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,64 +74,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dynopoker_config.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_plugins/dynopoker_config.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="27" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_assets/stylesheets/style.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="28" selection-start="172" selection-end="172" vertical-scroll-proportion="0.09983361">
+            <state line="12" column="10" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_font-awesome.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/font-awesome/_font-awesome.scss">
+      <file leaf-file-name="description.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/description.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
+            <state line="4" column="2" selection-start="223" selection-end="223" vertical-scroll-proportion="0.10638298">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <file leaf-file-name="_description.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_description.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="-4.375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="social.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/social.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="56" selection-start="152" selection-end="168" vertical-scroll-proportion="-2.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_social.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_social.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="1" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="37" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+            <state line="15" column="1" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,7 +104,43 @@
       <file leaf-file-name="_base.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="17" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
+            <state line="18" column="1" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_footer.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="1" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_social.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_social.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="20" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_type.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_type.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="1" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="36" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,16 +149,16 @@
       <file leaf-file-name="_header.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="13" column="1" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="links.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/links.yml">
+      <file leaf-file-name="_syntax.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_syntax.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="20" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -163,28 +182,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wakemydyno.txt" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_assets/stylesheets/_type.scss" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_plugins/dynopoker_config.rb" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/font-awesome/_variables.scss" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/font-awesome/_font-awesome.scss" />
-        <option value="$PROJECT_DIR$/_data/links.yml" />
         <option value="$PROJECT_DIR$/_includes/social.html" />
-        <option value="$PROJECT_DIR$/_assets/stylesheets/_base.scss" />
-        <option value="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" />
-        <option value="$PROJECT_DIR$/_assets/stylesheets/_social.scss" />
+        <option value="$PROJECT_DIR$/_data/links.yml" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_assets/stylesheets/_footer.scss" />
+        <option value="$PROJECT_DIR$/_assets/stylesheets/_header.scss" />
+        <option value="$PROJECT_DIR$/_assets/stylesheets/_description.scss" />
+        <option value="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" />
+        <option value="$PROJECT_DIR$/_assets/stylesheets/_base.scss" />
+        <option value="$PROJECT_DIR$/_assets/stylesheets/_social.scss" />
+        <option value="$PROJECT_DIR$/_includes/description.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="48" />
-    <option name="y" value="-4" />
+    <option name="y" value="519" />
     <option name="width" value="1319" />
     <option name="height" value="773" />
   </component>
@@ -360,8 +379,8 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="editor" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -483,19 +502,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-4" width="1319" height="773" extended-state="6" />
+    <frame x="48" y="519" width="1319" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26671913" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27143982" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -568,46 +587,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_plugins/dynopoker_config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="27" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/font-awesome/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="27" selection-start="850" selection-end="850" vertical-scroll-proportion="0.66502464">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/font-awesome/_icons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="72" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/font-awesome/_fixed-width.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/font-awesome/_bordered-pulled.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_assets/stylesheets/font-awesome/_font-awesome.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
@@ -615,65 +594,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/_includes/social.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="-4.375">
+        <state line="4" column="73" selection-start="169" selection-end="169" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/links.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
+        <state line="2" column="19" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/social.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="56" selection-start="152" selection-end="168" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_type.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="17" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="37" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_social.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+        <state line="14" column="31" selection-start="422" selection-end="422" vertical-scroll-proportion="-8.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_assets/stylesheets/style.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="172" selection-end="172" vertical-scroll-proportion="0.09983361">
+        <state line="12" column="10" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="20" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_type.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="20" selection-end="60" vertical-scroll-proportion="0.05199307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="1" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_syntax.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_description.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="36" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_social.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="2" selection-start="223" selection-end="223" vertical-scroll-proportion="0.10638298">
           <folding />
         </state>
       </provider>

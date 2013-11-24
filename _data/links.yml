@@ -1,3 +1,6 @@
+- url: 'http://www.facebook.com/pankruszczynski'
+  icon: 'fa-facebook-square'
+  title: 'Facebook'
 - url: 'http://www.twitter.com/kruszczynski'
   icon: 'fa-twitter-square'
   title: 'Twitter'
@@ -10,3 +13,6 @@
 - url: 'http://www.instagram.com/kruszczyk'
   icon: 'fa-instagram'
   title: 'Instagram'
+- url: 'google.com/+BartekKruszczyńskiPlus'
+  icon: 'fa-google-plus-square'
+  title: 'Google+'

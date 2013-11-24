@@ -1,12 +1,14 @@
-h1, h2 {
-  line-height: 1;
-}
-
 h1 {
   font-size: 4em;
   margin-bottom: 0.125em;
+  line-height: 1.5;
+  overflow: hidden;
+  @media screen and (max-width: $break-small) {
+    font-size: 3em;
+  }
 }
 
 h2 {
   font-size: 2em;
+  line-height: 1;
 }

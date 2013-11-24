@@ -1,0 +1,16 @@
+#description {
+  padding-top: 1em;
+  line-height: 1.5em;
+  @media screen and (max-width: $break-large) {
+    margin: 0 1em 0 0;
+  }
+  a {
+    color: $base-font-color;
+    &:hover {
+      color: $description-link-hover;
+    }
+  }
+  p {
+    margin-bottom: 1em;
+  }
+}
