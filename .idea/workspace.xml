@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25342439-d396-4924-98a4-2dabbbec0ed5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_kruszczynski.sublime-project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_kruszczynski.sublime-workspace" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wakemydyno.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/links.yml" afterPath="$PROJECT_DIR$/_data/links.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kruszczynski.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385329023594" ignored="false" />
+    <file path="/Dummy.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385330300840" ignored="false" />
     <file path="/Gemfile" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385241474780" ignored="false" />
     <file path="/ext.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384989868395" ignored="false" />
     <file path="/.gitignore" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385329062805" ignored="false" />
@@ -61,19 +56,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="links.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="links.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/links.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="12" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+            <state line="14" column="18" selection-start="472" selection-end="472" vertical-scroll-proportion="0.2248394">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.016059957">
+            <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,15 +87,6 @@
         <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state line="18" column="1" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_footer.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_footer.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="1" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -174,8 +160,8 @@
         <option value="$PROJECT_DIR$/_assets/stylesheets/_base.scss" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/_social.scss" />
         <option value="$PROJECT_DIR$/_includes/description.html" />
-        <option value="$PROJECT_DIR$/_data/links.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_data/links.yml" />
       </list>
     </option>
   </component>
@@ -357,8 +343,8 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="editor" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -487,7 +473,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1905016" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19263607" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -565,11 +551,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="73" selection-start="169" selection-end="169" vertical-scroll-proportion="-2.5" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="31" selection-start="422" selection-end="422" vertical-scroll-proportion="-8.75" />
@@ -620,13 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_description.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="36" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
@@ -641,9 +615,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_social.scss">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+        <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_description.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -655,16 +636,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/links.yml">
+    <entry file="file://$PROJECT_DIR$/_includes/social.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+        <state line="4" column="73" selection-start="169" selection-end="169" vertical-scroll-proportion="0.06593407">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_social.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.016059957">
+        <state line="19" column="20" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/links.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="472" selection-end="472" vertical-scroll-proportion="0.2248394">
           <folding />
         </state>
       </provider>
