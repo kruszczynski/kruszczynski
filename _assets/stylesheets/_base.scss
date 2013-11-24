@@ -7,3 +7,7 @@
 #header, #footer, .section {
   margin-bottom: 1em;
 }
+
+a:visited, a:hover {
+  color: inherit;
+}

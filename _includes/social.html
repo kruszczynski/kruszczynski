@@ -1,4 +1,11 @@
 <section id="social" class="section">
   <ul>
+      {% for link in site.data.links %}
+      <li>
+         <a href="{{ link.url }}" title="{{link.title}}" target="_blank">
+             <i class="fa {{link.icon}}"></i>
+         </a>
+      </li>
+      {% endfor %}
   </ul>
 </section>

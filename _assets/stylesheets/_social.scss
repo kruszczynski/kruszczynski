@@ -1,0 +1,18 @@
+#social {
+  i {
+    font-size: 8em;
+  }
+  a {
+    color: $social-base-color;
+    @include transition(all 0.2s linear);
+    &:hover {
+      color: $social-hover;
+    }
+  }
+  ul {
+    @include clearfix;
+    li {
+      float: left;
+    }
+  }
+}
