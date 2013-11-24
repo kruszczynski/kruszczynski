@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25342439-d396-4924-98a4-2dabbbec0ed5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/description.html" afterPath="$PROJECT_DIR$/_includes/description.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_kruszczynski.sublime-project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_kruszczynski.sublime-workspace" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wakemydyno.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/links.yml" afterPath="$PROJECT_DIR$/_data/links.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kruszczynski.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385300553836" ignored="false" />
+    <file path="/Dummy.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385329023594" ignored="false" />
     <file path="/Gemfile" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385241474780" ignored="false" />
     <file path="/ext.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384989868395" ignored="false" />
-    <file path="/.gitignore" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384990274019" ignored="false" />
+    <file path="/.gitignore" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385329062805" ignored="false" />
     <file path="/wakemydyno.txt" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1384991191692" ignored="false" />
     <file path="/style.css.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385303843452" ignored="false" />
     <file path="/_type.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385081024504" ignored="false" />
@@ -18,7 +23,7 @@
     <file path="/dynopoker_config.rb" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385242763727" ignored="false" />
     <file path="/Procfile" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385243005639" ignored="false" />
     <file path="/social.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385253159543" ignored="false" />
-    <file path="/links.yml" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385302526949" ignored="false" />
+    <file path="/links.yml" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385329051596" ignored="false" />
     <file path="/_social.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385305650453" ignored="false" />
     <file path="/_base.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306485839" ignored="false" />
     <file path="/footer.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385303587545" ignored="false" />
@@ -47,19 +52,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/style.css.scss">
+      <file leaf-file-name="description.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/description.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="10" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="description.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/description.html">
+      <file leaf-file-name="links.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/links.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="97" selection-start="146" selection-end="146" vertical-scroll-proportion="0.05319149">
+            <state line="17" column="12" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.016059957">
               <folding />
             </state>
           </provider>
@@ -96,15 +110,6 @@
         <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_social.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state line="19" column="20" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_type.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_type.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="1" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,12 +160,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_plugins/dynopoker_config.rb" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/font-awesome/_variables.scss" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/font-awesome/_font-awesome.scss" />
         <option value="$PROJECT_DIR$/_includes/social.html" />
-        <option value="$PROJECT_DIR$/_data/links.yml" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
@@ -171,14 +174,16 @@
         <option value="$PROJECT_DIR$/_assets/stylesheets/_base.scss" />
         <option value="$PROJECT_DIR$/_assets/stylesheets/_social.scss" />
         <option value="$PROJECT_DIR$/_includes/description.html" />
+        <option value="$PROJECT_DIR$/_data/links.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="519" />
-    <option name="width" value="1319" />
-    <option name="height" value="773" />
+    <option name="x" value="1365" />
+    <option name="y" value="-4" />
+    <option name="width" value="1922" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -475,14 +480,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="519" width="1319" height="773" extended-state="6" />
+    <frame x="1365" y="-4" width="1922" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27143982" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1905016" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -560,32 +565,14 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_assets/stylesheets/font-awesome/_font-awesome.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/social.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="73" selection-start="169" selection-end="169" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/links.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="73" selection-start="169" selection-end="169" vertical-scroll-proportion="-2.5" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="31" selection-start="422" selection-end="422" vertical-scroll-proportion="-8.75">
-          <folding />
-        </state>
+        <state line="14" column="31" selection-start="422" selection-end="422" vertical-scroll-proportion="-8.75" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_assets/stylesheets/style.css.scss">
@@ -597,9 +584,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="20" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="20" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_type.scss">
@@ -611,9 +596,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="20" selection-end="60" vertical-scroll-proportion="0.05199307">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="20" selection-end="60" vertical-scroll-proportion="0.05199307" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_assets/stylesheets/_footer.scss">
@@ -667,7 +650,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/description.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="97" selection-start="146" selection-end="146" vertical-scroll-proportion="0.05319149">
+        <state line="7" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/links.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.016059957">
           <folding />
         </state>
       </provider>
