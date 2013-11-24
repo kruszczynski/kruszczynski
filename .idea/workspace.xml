@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25342439-d396-4924-98a4-2dabbbec0ed5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/stylesheets/_description.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-052ebebe599497c385d525c619b49c55.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-052ebebe599497c385d525c619b49c55.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-0ef6b4a56fa0857f14d977daa83c53d0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-0ef6b4a56fa0857f14d977daa83c53d0.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-85780be1e46439466e0b7be74ce1f015.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-85780be1e46439466e0b7be74ce1f015.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-86cc65bf19ac7204d5b585fa93cfc0e8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-86cc65bf19ac7204d5b585fa93cfc0e8.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-b735baa606e0406d3921500e1aad4a6f.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-b735baa606e0406d3921500e1aad4a6f.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-c4870b028caf9c4571ac5e5c86cec382.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-c4870b028caf9c4571ac5e5c86cec382.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-d8c79d2382793f0d582f8dddd36b0142.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-d8c79d2382793f0d582f8dddd36b0142.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-e8dfa1798e8d054d6b3cc71464360700.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style-e8dfa1798e8d054d6b3cc71464360700.css.gz" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_base.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_footer.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_footer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_header.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_social.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_social.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/description.html" afterPath="$PROJECT_DIR$/_includes/description.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/links.yml" afterPath="$PROJECT_DIR$/_data/links.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" afterPath="$PROJECT_DIR$/_assets/stylesheets/style.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kruszczynski.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,8 +25,9 @@
     <file path="/_footer.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385305858161" ignored="false" />
     <file path="/default.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385303809123" ignored="false" />
     <file path="/_description.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306338522" ignored="false" />
-    <file path="/description.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306548819" ignored="false" />
+    <file path="/description.html" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306994785" ignored="false" />
     <file path="/_header.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306265377" ignored="false" />
+    <file path="$PROJECT_DIR$/_assets/stylesheets/font-awesome/_font-awesome.scss" changelist="25342439-d396-4924-98a4-2dabbbec0ed5" time="1385306981785" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +59,7 @@
       <file leaf-file-name="description.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/description.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="2" selection-start="223" selection-end="223" vertical-scroll-proportion="0.10638298">
+            <state line="2" column="97" selection-start="146" selection-end="146" vertical-scroll-proportion="0.05319149">
               <folding />
             </state>
           </provider>
@@ -694,7 +667,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/description.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="223" selection-end="223" vertical-scroll-proportion="0.10638298">
+        <state line="2" column="97" selection-start="146" selection-end="146" vertical-scroll-proportion="0.05319149">
           <folding />
         </state>
       </provider>
