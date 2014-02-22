@@ -1,0 +1,25 @@
+#social {
+  i {
+    font-size: 12em;
+    @media screen and (max-width: $break-large) {
+      font-size: 8em;
+    }
+  }
+  a {
+    color: $social-base-color;
+    @include transition(all, .2s, linear);
+    &:hover {
+      color: $social-hover;
+    }
+  }
+  ul {
+    @extend %clearfix;
+    li {
+      padding: 1em 2em 0 0;
+      float: left;
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+}
