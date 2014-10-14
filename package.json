@@ -1,0 +1,26 @@
+{
+  "name": "kruszczynski",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-minify-css": "^0.3.0",
+    "gulp-sass": "^0.7.1",
+    "gulp-util": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kruszczynski/kruszczynski.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruszczynski/kruszczynski/issues"
+  },
+  "homepage": "https://github.com/kruszczynski/kruszczynski"
+}

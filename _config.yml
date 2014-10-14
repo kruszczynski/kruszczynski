@@ -1,5 +1,5 @@
 name: "Bartek Kruszczyński | Developer, Car Nut, dnb lover"
 markdown: redcarpet
 safe: false
-pygments: true
+highlighter: pygments
 exclude: [gulpfile.js, node_modules]
