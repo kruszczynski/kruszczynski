@@ -2,4 +2,13 @@ name: "Bartek Kruszczyński | Developer, Car Nut, dnb lover"
 markdown: redcarpet
 safe: false
 highlighter: pygments
-exclude: [gulpfile.js, node_modules]
+exclude: [
+  gulpfile.js,
+  node_modules,
+  package.json,
+  README,
+  Gemfile,
+  Gemfile.lock,
+  docker-compose.yml,
+  Dockerfile
+]

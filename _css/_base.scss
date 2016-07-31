@@ -1,24 +1,31 @@
 .site {
-  max-width: $break-large;
-  margin: 0 auto;
   font-family: $sans;
   font-size: $font-size;
+  margin: 0 auto;
+  max-width: $break-large;
+
   @media screen and (max-width: $break-large) and (min-width: $break-small) {
     font-size: $font-size-medium;
   }
+
   @media screen and (max-width: $break-small) {
     font-size: $font-size-small;
   }
+
   @media screen and (max-width: $break-large) {
     margin: 0 0 0 1em;
   }
 }
 
-#header, #footer, .section {
+// scss-lint:disable IdSelector
+#header,
+#footer,
+.section {
   margin-bottom: 1em;
 }
 
-a:visited, a:hover {
+a:visited,
+a:hover {
   color: inherit;
 }
 
@@ -31,7 +38,7 @@ a:visited, a:hover {
 }
 
 %clearfix {
-  content: "";
-  display: table;
   clear: both;
+  content: '';
+  display: table;
 }

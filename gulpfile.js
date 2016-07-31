@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var gutil = require('gulp-util');
 var sass = require('gulp-sass')
-var minifyCSS = require('gulp-minify-css');
+var cleanCSS = require('gulp-clean-css');
 
 gulp.task('sass', function () {
     gulp.src('./_css/style.scss')
@@ -12,7 +12,7 @@ gulp.task('sass', function () {
 gulp.task('minify-css', function() {
 
   gulp.src('./assets/*.css')
-    .pipe(minifyCSS())
+    .pipe(cleanCSS())
     .pipe(gulp.dest('./assets/'))
 });
 
