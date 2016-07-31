@@ -1,7 +1,7 @@
 name: "Bartek Kruszczyński | Developer, Car Nut, dnb lover"
 markdown: redcarpet
 safe: false
-highlighter: pygments
+highlighter: rouge
 exclude: [
   gulpfile.js,
   node_modules,
